@@ -1,8 +1,0 @@
-Train
-modify ./lib/datasets/factory.py  line20 text_voc_devkit_path
-
-Test
-'''
-cd ./tools
-python do_test.py
-'''
