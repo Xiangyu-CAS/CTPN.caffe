@@ -4,6 +4,9 @@ This repository is a caffe implementation of CTPN, **including training code**
 ## Installation
 1. requirement: python2.7
 ## Train
+```
+./train_ctpn.sh
+```
 Train loss
 ```
 I1016 08:24:03.314466  7483 solver.cpp:228] Iteration 69980, loss = 0.0946643
